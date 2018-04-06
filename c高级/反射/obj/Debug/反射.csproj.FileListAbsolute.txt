@@ -1,0 +1,6 @@
+G:\svn\c高级\反射\bin\Debug\反射.exe.config
+G:\svn\c高级\反射\bin\Debug\反射.exe
+G:\svn\c高级\反射\bin\Debug\反射.pdb
+G:\svn\c高级\反射\obj\Debug\反射.csproj.CoreCompileInputs.cache
+G:\svn\c高级\反射\obj\Debug\反射.exe
+G:\svn\c高级\反射\obj\Debug\反射.pdb

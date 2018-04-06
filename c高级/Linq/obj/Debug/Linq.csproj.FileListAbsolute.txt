@@ -1,0 +1,7 @@
+G:\svn\c高级\Linq\obj\Debug\Linq.csprojResolveAssemblyReference.cache
+G:\svn\c高级\Linq\obj\Debug\Linq.csproj.CoreCompileInputs.cache
+G:\svn\c高级\Linq\bin\Debug\Linq.exe.config
+G:\svn\c高级\Linq\bin\Debug\Linq.exe
+G:\svn\c高级\Linq\bin\Debug\Linq.pdb
+G:\svn\c高级\Linq\obj\Debug\Linq.exe
+G:\svn\c高级\Linq\obj\Debug\Linq.pdb

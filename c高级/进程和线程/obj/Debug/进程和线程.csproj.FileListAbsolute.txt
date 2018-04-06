@@ -1,0 +1,7 @@
+G:\svn\c高级\进程和线程\bin\Debug\进程和线程.exe.config
+G:\svn\c高级\进程和线程\bin\Debug\进程和线程.exe
+G:\svn\c高级\进程和线程\bin\Debug\进程和线程.pdb
+G:\svn\c高级\进程和线程\obj\Debug\进程和线程.csproj.CoreCompileInputs.cache
+G:\svn\c高级\进程和线程\obj\Debug\进程和线程.exe
+G:\svn\c高级\进程和线程\obj\Debug\进程和线程.pdb
+G:\svn\c高级\进程和线程\obj\Debug\进程和线程.csprojResolveAssemblyReference.cache
