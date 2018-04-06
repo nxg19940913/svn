@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EB461B7B-6BC7-4CDE-AB1A-503FA5873828}</ProjectGuid>
+    <ProjectGuid>{589B9FAA-D3ED-4FEE-8D2B-FA069A3ADC5B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>通过Thread发起线程</RootNamespace>
-    <AssemblyName>通过Thread发起线程</AssemblyName>
+    <RootNamespace>socket编程_udp协议_服务器端</RootNamespace>
+    <AssemblyName>socket编程_udp协议_服务器端</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MyThread.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

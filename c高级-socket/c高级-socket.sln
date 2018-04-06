@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "socket编程-tcp协议-客户端", "socket编程-tcp协议-客户端\socket编程-tcp协议-客户端.csproj", "{026F934D-62C0-45EA-96BE-32F775CE9EB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "socket编程_udp协议_客户端", "socket编程_udp协议_客户端\socket编程_udp协议_客户端.csproj", "{F04DC523-CA50-4DCD-B1B7-2B3B9E57CCA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tcpclient客户端", "Tcpclient客户端\Tcpclient客户端.csproj", "{874B9D1A-7185-4B4C-9117-572B03A69B81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{026F934D-62C0-45EA-96BE-32F775CE9EB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{026F934D-62C0-45EA-96BE-32F775CE9EB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{026F934D-62C0-45EA-96BE-32F775CE9EB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{026F934D-62C0-45EA-96BE-32F775CE9EB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F04DC523-CA50-4DCD-B1B7-2B3B9E57CCA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F04DC523-CA50-4DCD-B1B7-2B3B9E57CCA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F04DC523-CA50-4DCD-B1B7-2B3B9E57CCA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F04DC523-CA50-4DCD-B1B7-2B3B9E57CCA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{874B9D1A-7185-4B4C-9117-572B03A69B81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{874B9D1A-7185-4B4C-9117-572B03A69B81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{874B9D1A-7185-4B4C-9117-572B03A69B81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{874B9D1A-7185-4B4C-9117-572B03A69B81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9573C2B1-1F21-4CA7-BEC0-BDF0E94301E2}
+	EndGlobalSection
+EndGlobal

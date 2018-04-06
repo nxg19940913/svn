@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EB461B7B-6BC7-4CDE-AB1A-503FA5873828}</ProjectGuid>
+    <ProjectGuid>{56C00839-9ADA-4E4B-812E-749BCFD0629F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>通过Thread发起线程</RootNamespace>
-    <AssemblyName>通过Thread发起线程</AssemblyName>
+    <RootNamespace>线程问题_争用条件</RootNamespace>
+    <AssemblyName>线程问题_争用条件</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MyThread.cs" />
+    <Compile Include="MyThreadObject.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

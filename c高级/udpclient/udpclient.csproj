@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EB461B7B-6BC7-4CDE-AB1A-503FA5873828}</ProjectGuid>
+    <ProjectGuid>{56BDAA12-EA24-43E6-968C-23540AA1F09F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>通过Thread发起线程</RootNamespace>
-    <AssemblyName>通过Thread发起线程</AssemblyName>
+    <RootNamespace>udpclient</RootNamespace>
+    <AssemblyName>udpclient</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MyThread.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
