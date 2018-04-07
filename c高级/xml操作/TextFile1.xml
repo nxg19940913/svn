@@ -1,0 +1,17 @@
+﻿<nxg>
+	<n>
+		<id>2</id>
+		<name lang="cn">天下无双</name>
+		<damage>123</damage>
+	</n>
+	<n>
+		<id>3</id>
+		<name lang="cn">永航</name>
+		<damage>90</damage>
+	</n>
+	<n>
+		<id>4</id>
+		<name lang="en">xxx</name>
+		<damage>200</damage>
+	</n>
+</nxg>
